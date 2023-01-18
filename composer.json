@@ -1,0 +1,17 @@
+{
+    "name": "pashko/design-patterns",
+    "description": "Design patterns project",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Src\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Pavel Pashkovich",
+            "email": "pashkovich.pavel@gmail.com"
+        }
+    ],
+    "require": {}
+}
