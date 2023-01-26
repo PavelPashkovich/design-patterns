@@ -12,7 +12,7 @@ $reports = [
     new XMLReport(),
 ];
 
-// client code, not using Adapter design pattern
+// client code, using Adapter design pattern
 function clientCode(array $reports): void
 {
     foreach ($reports as $report) {
