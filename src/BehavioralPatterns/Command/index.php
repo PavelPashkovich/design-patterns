@@ -5,7 +5,7 @@ namespace Src\BehavioralPatterns\Command;
 require __DIR__ . '/../../../vendor/autoload.php';
 
 /**
- * Клиентский код.
+ * Client code
  */
 
 $bank = new Bank();
